@@ -1,4 +1,4 @@
-# Twitter Clone Project
+# Twitter Clone
 
 HTML and CSS project developed copying the instructor coding during the Rocketseat Bootcamp bonus course, to learn CSS Flexbox concepts.
 
